@@ -20,6 +20,7 @@
 
  📫 How to reach me ...
         - [Email](anilpython7877@gmail.com)
+        - Email: anilpython7877@gmail.com
 
 
  ⚡ Fun fact: ...
