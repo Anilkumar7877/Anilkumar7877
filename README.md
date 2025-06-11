@@ -24,7 +24,7 @@
 
 
  ⚡ Fun fact: ...
-        - I enjoy creating web application clones to enhance my web development skills.
+        - I enjoy creating web application to enhance my web development skills.
 
 
 <!---
